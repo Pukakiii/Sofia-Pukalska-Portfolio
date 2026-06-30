@@ -29,6 +29,12 @@ alwaysApply: false
 - Border radius increased to `0.75rem`
 - Font pairing: DM Sans + Fraunces (replacing Inter + Calistoga)
 
+## Profile data
+
+- **Source:** `SP_data.md` (derived from local `sofia.pdf` LinkedIn export). Never commit either file.
+- **Staging:** Real hospitality copy in `.ship/staging/` (home, career, education, projects as expertise areas, LinkedIn social).
+- **Still placeholder:** Avatar (`SP_pp.jpeg`), education start year, employer logos.
+
 ## Placeholders
 
-Until `SP_data.md` and `SP_pp.jpeg` are provided, use bracketed copy and SP initials avatar block.
+Until `SP_pp.jpeg` is provided, use SP initials avatar block and generic project/employer images.

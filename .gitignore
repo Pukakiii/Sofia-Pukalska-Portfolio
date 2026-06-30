@@ -43,6 +43,7 @@ next-env.d.ts
 *_data.md
 *_pp.jpeg
 *_pp.jpg
+sofia.pdf
 
 # Shipping machinery (local only)
 .ship/
