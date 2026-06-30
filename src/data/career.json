@@ -1,0 +1,38 @@
+{
+  "career": [
+    {
+      "name": "Marriott",
+      "href": "#",
+      "logo": "/placeholder.svg",
+      "positions": [
+        {
+          "title": "Assistant Manager",
+          "start": "Oct 2025",
+          "end": "Present",
+          "description": [
+            "Contributed to operational excellence across luxury hotels, rooftop restaurants, and large-scale events in Warsaw.",
+            "Assisted with team leadership, guest relations, staff coordination, and service delivery at the highest standards.",
+            "Supported HR and organizational culture initiatives—teamwork, professionalism, and employee engagement."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luxury Hospitality — Warsaw & Coast",
+      "href": "#",
+      "logo": "/placeholder.svg",
+      "positions": [
+        {
+          "title": "Hospitality Professional",
+          "start": "2024",
+          "end": "Oct 2025",
+          "description": [
+            "Guest-facing roles at Verte Warsaw, Presidential Hotel, The Westin Warsaw, Raffles Europejski Warsaw, and Varso Tower.",
+            "Event and service delivery experience at venues on the Polish coast (Wybrzeże Polskie).",
+            "Built communication, adaptability, and leadership skills with international guests and hospitality teams."
+          ]
+        }
+      ]
+    }
+  ]
+}

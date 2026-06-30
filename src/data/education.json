@@ -1,0 +1,19 @@
+{
+  "education": [
+    {
+      "name": "Uczelnia Łazarskiego w Warszawie",
+      "href": "https://www.lazarski.pl/",
+      "logo": "/placeholder.svg",
+      "positions": [
+        {
+          "title": "HR i kultura organizacyjna — Economics and Management",
+          "start": "[Start year — to be updated]",
+          "end": "Present",
+          "description": [
+            "Continuing education in human resources and organizational culture alongside hospitality career development."
+          ]
+        }
+      ]
+    }
+  ]
+}
