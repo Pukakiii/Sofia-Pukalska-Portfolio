@@ -1,0 +1,34 @@
+---
+description: Sofia Pukalska portfolio — auto-ship from tedawf.com reference
+globs: Sofia Pukalska Portfolio/**
+alwaysApply: false
+---
+
+# Sofia Pukalska Portfolio
+
+## Track: auto-ship
+
+- **Remote:** https://github.com/Pukakiii/Sofia-Pukalska-Portfolio.git
+- **Reference:** [tedawf/tedawf.com](https://github.com/tedawf/tedawf.com)
+- **Profile:** Read `SP_data.md` first. Never commit it.
+- **Schedule offset:** +7 min (Europe/London)
+
+## Removed from reference
+
+- `/contact` route and ContactForm
+- Resend contact server action
+- All chat/bot: Ted Support UI, ChatContext, `/api/chat`, AI/LangChain deps, TACOS env vars
+
+## Kept
+
+- Home, `/projects`, `/blog`, experience/timeline, theme toggle, Framer Motion polish
+
+## Styling tweak (applied)
+
+- Teal accent palette in shadcn CSS variables (`--primary`, `--accent` hue ~172)
+- Border radius increased to `0.75rem`
+- Font pairing: DM Sans + Fraunces (replacing Inter + Calistoga)
+
+## Placeholders
+
+Until `SP_data.md` and `SP_pp.jpeg` are provided, use bracketed copy and SP initials avatar block.
