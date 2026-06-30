@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Guest Relations",
+      "description": "Delivering warm, professional service for international guests in luxury hotel and restaurant settings—handling requests, resolving issues, and creating memorable stays.",
+      "image": "/placeholder.svg",
+      "tags": ["Guest Relations", "Customer Service", "Communication"],
+      "links": []
+    },
+    {
+      "name": "Event Coordination",
+      "description": "Supporting large-scale events and rooftop hospitality operations—coordinating teams, timelines, and service delivery under high standards.",
+      "image": "/placeholder.svg",
+      "tags": ["Event Coordination", "Operations", "Team Leadership"],
+      "links": []
+    },
+    {
+      "name": "Operations Management",
+      "description": "Maintaining operational excellence in fast-paced environments—staff coordination, quality control, and problem-solving when standards matter most.",
+      "image": "/placeholder.svg",
+      "tags": ["Operations Management", "Time Management", "Leadership"],
+      "links": []
+    }
+  ]
+}
